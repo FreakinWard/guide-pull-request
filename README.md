@@ -1,7 +1,9 @@
+# Overview
 
-`topic:` tips and best practices for pull-request feedback
+A collection of pull request guidelines, tips, and practices that help guide conversations for teams.
 
-`considerations:`
+## Considerations
+
  - Decide if you really *want* to draw the authors attention 
  - decide if you really *need* the change - if not, a tech-debt story is an option, too
  - Petty comments trigger emotions
@@ -33,16 +35,18 @@
 
 
 ## Feedback Considerations
+Topics to consider when leaving feedback
 
-
-## Conflict Resolution
+### Conflict Resolution
 - Do not block working code
   - Allow the code to merge to better-serve users/customers.
   - Follow up with logging the disagreements, google-docs, for example. Review disagreements on a regular basis - time gives perspective.
 -   [Creating a pull request template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
     -   Checklist of agreed upon items that will be included to receive feedback
 
-## [‎Coding Blocks: Google's Engineering Practices - Code Review Standards on Apple Podcasts](https://podcasts.apple.com/us/podcast/coding-blocks/id769189585?i=1000474195476)
+> 🎙️ PODCAST: [‎Coding Blocks: Google's Engineering Practices - Code Review Standards](https://podcasts.apple.com/us/podcast/coding-blocks/id769189585?i=1000474195476)
+
+ 
 ### Considerations
 Purpose: To ensure quality of code over time
 - How much time to spend?
